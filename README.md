@@ -14,9 +14,10 @@ Our mission is simple: to ensure you spend the least amount of money on the snea
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/SameForLess-Sneakers.git
-   ```
+```bash
+git clone https://github.com/niewiemczego/SameForLess-Sneakers.git
+```
+
 2. Navigate to the project directory:
 
 ```bash
